@@ -83,6 +83,7 @@ https://github.com/lovyan03/LovyanGFX
 # LCD表示動画
 
 メモリーカードから画像データを読み出して液晶に表示しています
+
 https://youtu.be/gN_2BcIaoQU
 
 
