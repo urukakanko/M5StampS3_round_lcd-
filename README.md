@@ -84,9 +84,12 @@ https://github.com/lovyan03/LovyanGFX
 
 メモリーカードから画像データを読み出して液晶に表示しています
 
-https://youtu.be/gN_2BcIaoQU
+[https://youtu.be/gN_2BcIaoQU](https://youtu.be/WFxbUNVwUNw)
 
 
+未実装版のチェックをしている動画です
+
+https://youtu.be/jMZeYKtBkwM
 
 
 # 使用例
