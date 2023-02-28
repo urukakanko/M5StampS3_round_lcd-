@@ -79,6 +79,13 @@ https://github.com/lovyan03/LovyanGFX
 他、GC9A01に対応したライブラリが使用可能と考えています。
 
 
+# サンプルプログラム
+
+LovyanGFXのClockSampleです
+
+https://github.com/urukakanko/M5StampS3_round_lcd-/tree/main/M5stampS3_ClockSample
+
+
 
 # LCD表示動画
 
