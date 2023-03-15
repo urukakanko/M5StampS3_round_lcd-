@@ -29,11 +29,14 @@ M5StampS3を使用して1.28インチ240ｘ240ドットの円形液晶を駆動�
 
 
 
-以下に回路図を示します　現在最新は基板Ver0.1です
+以下に回路図を示します　現在最新は基板Ver1.0です
 
 ![](schematic.png)
 
 
+試作版のVer0.1の図面は以下に保存しています
+
+https://github.com/urukakanko/M5StampS3_round_lcd-/tree/main/ver0.1
 
 
 
