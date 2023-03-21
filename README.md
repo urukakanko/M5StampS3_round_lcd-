@@ -94,7 +94,7 @@ https://github.com/urukakanko/M5StampS3_round_lcd-/tree/main/M5stampS3_ClockSamp
 
 # LCD表示動画
 
-メモリーカードから画像データを読み出して液晶に表示しています
+BMPデータを液晶に表示しています
 
 [https://youtu.be/gN_2BcIaoQU](https://youtu.be/WFxbUNVwUNw)
 
