@@ -1,4 +1,4 @@
-# M5StampS3ラウンド液晶モジュール（ただいま準備中！！）
+# M5StampS3ラウンド液晶モジュール
 
 ![](gaiken2.jpg)
 ![](gaiken1.jpg)
