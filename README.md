@@ -106,6 +106,13 @@ BMPデータを液晶に表示しています
 https://youtu.be/jMZeYKtBkwM
 
 
+
+# そーたメイ氏の「つくるっち」に対応して頂きました
+
+https://sohta02.sakura.ne.jp/tukurutch/#000000531
+
+
+
 # 使用例
 
 準備中
