@@ -19,7 +19,9 @@ M5StampS3を使用して1.28インチ240ｘ240ドットの円形液晶を駆動�
 # 2023年5月5日までにM5StampS3実装品を購入された方へのお詫び
 
 裏面のMacAddressがプリントされたラベルと実際のMacAddressが異なっている可能性があります。
+
 MacAddress情報が必要な場合は以下サンプルソースで画面表示する様にしましたのでこちらで確認をお願いします。
+
 大変ご迷惑をお掛けしてしまい申し訳ございません。
 
 https://github.com/urukakanko/M5StampS3_round_lcd-/tree/main/M5stampS3_ClockSample
