@@ -93,6 +93,15 @@ void setup(void)
 {
   lcd.init();
 
+  lcd.clear(TFT_BLACK);
+  uint8_t Macaddress[6];
+  esp_read_mac(Macaddress, ESP_MAC_WIFI_STA);
+  lcd.setFont(&fonts::Font4); 
+  lcd.setCursor(10, 110);
+  lcd.printf("%02X:%02X:%02X:%02X:%02X:%02X", Macaddress[0], Macaddress[1], Macaddress[2], Macaddress[3], Macaddress[4], Macaddress[5]);
+
+  delay(4000);
+
   zoom = (float)(std::min(lcd.width(), lcd.height())) / width; // 表示が画面にフィットするよう倍率を調整
 
   lcd.setPivot(lcd.width() >> 1, lcd.height() >> 1); // 時計描画時の中心を画面中心に合わせる
